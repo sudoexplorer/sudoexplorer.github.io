@@ -2,7 +2,7 @@
 layout: post 
 title:  "Welcome to SudoExplorer!"
 date:   2019-11-03 17:15:42 +0530
-categories: jekyll update
+categories: introduction
 ---
 Welcome to `SudoExplorer`
 

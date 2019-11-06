@@ -32,7 +32,7 @@ twitter_username: explorerishere
 github_username:  sudoexplorer
 
 # Build settings
-remote_theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 

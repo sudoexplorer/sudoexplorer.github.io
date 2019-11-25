@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Tesla releases Cybertruck, The All Electric Truck"
+date:   2019-11-24 
+categories: Technology
+published : True
+---
+
 Cybertruck is amazing, period. Just like the one line description of the vehicle says it is "Better utility vehicle than a truck with more performance than a sports car"
 
 The Cybertruck is a polarizing truck. The one thing that makes it polarizing is it's Bladerunnerish, out-of-the movie style design. It also has these headlights like from the movie TRON.

@@ -26,3 +26,4 @@ The official letter was posted by Jill C, Tyson who is the Assistant Director of
 Here's the link to the full letter https://www.democrats.senate.gov/imo/media/doc/FBI%20Letter%20to%20Schumer%20re%20FaceApp11.pdf
 
 
+

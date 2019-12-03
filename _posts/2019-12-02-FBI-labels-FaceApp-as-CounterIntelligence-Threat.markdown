@@ -1,8 +1,9 @@
 ---
 layout: post 
 title:  "FBI labels FaceApp as Counter Intelligence Threat"
-date:   2019-12-03 06:29:50 +0530
+date:   2019-12-03 06:31:10 +0530
 categories: Technology
+published : True
 ---
 
 In a letter issued by the Federal Bureau of Investigation (FBI) as a reply to the US Senerator, Charles R Schumer hav designated the mobile application FaceApp as a Counter Intelligence threat.

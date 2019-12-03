@@ -30,7 +30,7 @@ url: "https://sudoexplorer.github.io/"
  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: explorerishere
 github_username:  sudoexplorer
-Share: {% include s
+
 
 # Build settings
 theme: minima

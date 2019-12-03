@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "FBI labels FaceApp as Counter Intelligence Threat"
-date:   2019-12-03 06:10:00 +0530
+date:   2019-12-03  +0530
 categories: Technology
 ---
 

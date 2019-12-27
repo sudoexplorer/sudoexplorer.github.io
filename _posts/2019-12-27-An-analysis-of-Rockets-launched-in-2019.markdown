@@ -7,7 +7,7 @@ published:true
 2019 is about to come to an end in yet another cycle around the Sun.
 
 *This years rocket launch by statistics*
-
+<div class="datatable-begin"></div>
 						
      | Country | Launches | Successes | Failures | Partial | Remarks |
 	 | ------- | -------- | -------- | ------ | -------- | ------- |				  	
@@ -20,3 +20,4 @@ published:true
 	 | United States | 27 | 27 | 0 | 0 | Includes Electron launches from Mahia |
          | Total | 101 | 96 | 5 | 0 | |	
 
+<div class="datatable-end"></div>

@@ -9,7 +9,7 @@ published:true
 *This years rocket launch by statistics*
 
 						
-         |Country|Launches failures| Successes |Failures|Partial |Remarks|
+     |Country|Launches failures| Successes |Failures|Partial |Remarks|
 	 |-------|-----------------|-----------|--------|--------|-------|				  	
 	 |China|33|31|2|0|	
 	 |Europe|6|5|1|0||

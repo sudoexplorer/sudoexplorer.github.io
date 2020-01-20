@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "SpaceX successfully peforms Crew Dragons's in flight abort test"
-date:   
+title:  "SpaceX successfully peforms Crew Dragons's in flight abort test"   
 categories: space, rockets, science
 published:true
 ---

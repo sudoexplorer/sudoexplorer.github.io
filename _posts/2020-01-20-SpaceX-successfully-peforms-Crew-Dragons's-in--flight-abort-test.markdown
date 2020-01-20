@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SpaceX-successfully-peforms-Crew-Dragons's-in-flight-abort-test"
-date:   2020-01-20 17:15:42 +0530
+title:  "SpaceX successfully peforms Crew Dragons's in flight abort test"
+date:   
 categories: space, rockets, science
 published:true
 ---

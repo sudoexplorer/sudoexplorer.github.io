@@ -6,6 +6,5 @@ categories: Food
 published : True
 ---
 
-
-<a href>https://mobile.twitter.com/CarlZha/status/1220897780123615232?s=09</a href>
+https://mobile.twitter.com/CarlZha/status/1220897780123615232?s=09
 
